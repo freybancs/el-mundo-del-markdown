@@ -63,4 +63,4 @@ Son comandos al cual le aplicamos una abreviatura paras referirnos a un comando 
 | alias gh="history grep" | Encontrar un comando en el historial de la terminal mediante el comando gh. |
 | alias ip="curl icanhazip.com" | Saber nuestra ip pública desde la terminal con el comando ip. |
 
-# TE AMO ESPOSO
+ 
